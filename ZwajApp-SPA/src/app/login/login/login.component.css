@@ -1,0 +1,9 @@
+.login {
+  margin: 50px auto;
+  width: 300px;
+}
+
+.login h4 {
+  font-size: 40px;
+  color: #888;
+}
